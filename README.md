@@ -4,4 +4,4 @@
 
 - Backend Developer at DevLaunchers;
 - Studying React Native & Ruby on Rails
-- 📝 Blog 📇 Portfolio 📧 chungzh07 at gmail.com ✈️ Telegram 📥 Matrix .
+- 📝 [Blog](https://minhtampham0703.wordpress.com/) 📇 [Portfolio](https://www.tamp.blog/) 📧 minhtamphamtol@gmail.com
