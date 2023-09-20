@@ -2,8 +2,7 @@
 
 ## A Full-Stack Developer ☼ and a Technical Writer ☾
 
-- Backend Developer at DevLaunchers;
-- Studying React Native & Ruby on Rails
+- Backend Developer at DevLaunchers
 - 📝 [Blog](https://minhtampham0703.wordpress.com/) 📇 [Portfolio](https://www.tamp.blog/) 📧 minhtamphamtol@gmail.com
 
 ## The most complex front-end project I have completed with React
@@ -18,9 +17,9 @@
 
 ## Languages & Frameworks:
 
-- HTML, CSS, Javascript,
-- React, Express, Node.js
-- Python, Django
+- HTML, CSS, Javascript
+- React, Node.js, Express, Koa (Strapi)
+- Python, Django, Selenium
 
 ## Technologies & Tools used:
 
@@ -31,3 +30,4 @@
 - API testing: Postman, Chai
 - Authentication: OAuth, Passport
 - Version control & Project management: Git | GitHub | Jira | Confluence | Zenhub | Trello
+- Others: Cron job, Selenium, Nodemailer, Swagger
