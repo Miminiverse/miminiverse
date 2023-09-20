@@ -14,4 +14,4 @@
 ## The most complex back-end project I have completed
 
 - [MentorUp Scheduling App](https://mentorup-81w4.onrender.com)
-- [Repo](https://github.com/Mentor-Up/server)
+- [Repo](https://github.com/Mentor-Up)
