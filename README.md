@@ -15,3 +15,19 @@
 
 - [MentorUp Scheduling App](https://mentorup-81w4.onrender.com)
 - [Repo](https://github.com/Mentor-Up)
+
+## Languages & Frameworks:
+
+- HTML, CSS, Javascript,
+- React, Express, Node.js
+- Python, Django
+
+## Technologies & Tools used:
+
+- Database & Storage: MongoDB, GraphQL/Hygrapgh, PostgreSQL, SQLite, AWS S3, Cloudinary
+- Real-time: Websocket | SocketIO
+- Hosting: Heroku, Digital Ocean, Vercel, Netlify, Render
+- Container: Docker
+- API testing: Postman, Chai
+- Authentication: OAuth, Passport
+- Version control & Project management: Git | GitHub | Jira | Confluence | Zenhub | Trello
