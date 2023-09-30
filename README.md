@@ -1,6 +1,6 @@
 ### Hi there I'm Tam👋
 
-## A Full-Stack Developer ☼ and a Technical Writer ☾
+## Full-Stack Developer ☼ Writer ☾
 
 - Backend Developer at DevLaunchers
 - 📝 [Blog](https://minhtampham0703.wordpress.com/) 📇 [Portfolio](https://www.tamp.blog/) 📧 minhtamphamtol@gmail.com
@@ -19,15 +19,14 @@
 
 - HTML, CSS, Javascript
 - React, Node.js, Express, Koa (Strapi)
-- Python, Django, Selenium
+- Python, Django
 
 ## Technologies & Tools used:
 
 - Database & Storage: MongoDB, GraphQL/Hygrapgh, PostgreSQL, SQLite, AWS S3, Cloudinary
 - Real-time: Websocket | SocketIO
 - Hosting: Heroku, Digital Ocean, Vercel, Netlify, Render
-- Container: Docker
 - API testing: Postman, Chai
 - Authentication: OAuth, Passport
-- Version control & Project management: Git | GitHub | Jira | Confluence | Zenhub | Trello
-- Others: Cron job, Selenium, Nodemailer, Swagger
+- Version control & Project management: Git | GitHub | Github Actions | Jira | Confluence | Zenhub | Trello
+- Others: Cron jobs, Selenium, BeautifulSoup, Nodemailer, Swagger
