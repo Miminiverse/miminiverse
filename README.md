@@ -18,7 +18,7 @@
 ## Languages & Frameworks:
 
 - HTML, CSS, Javascript
-- React, Node.js, Express, Koa (Strapi)
+- React, Node.js, Express, Typescript, Koa (Strapi)
 - Python, Django
 
 ## Technologies & Tools used:
