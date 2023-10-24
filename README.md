@@ -3,7 +3,7 @@
 ## Full-Stack Developer ☼ Writer ☾
 
 - Backend Developer at DevLaunchers
-- 📝 [Blog](https://minhtampham0703.wordpress.com/) 📇 [Portfolio](https://www.tamp.blog/) 📧 tam.p@devlaunchers.com
+- 📝 [Blog](https://minhtampham0703.wordpress.com/) 📇 [Portfolio](https://www.mtamp.me/) 📧 tam.p@devlaunchers.com
 
 ## The most complex front-end project I have completed with React
 
