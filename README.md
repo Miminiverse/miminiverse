@@ -1,22 +1,23 @@
 ### Hi there I'm Tam👋
 
-## Full-Stack Developer ☼ Writer ☾
+## Full-Stack Developer ☼ Mobile Developer ☾ Writer 
 
 - Backend Developer at DevLaunchers
 - 📝 [Blog](https://minhtampham0703.wordpress.com/) 📇 [Portfolio](https://www.mtamp.me/) 📧 tam.p@devlaunchers.com
 
 
 ## [Talckatoo AI-Powered Real-Time Multilingual Chat App](https://talckatoo.me)
+- [Mobile App Demo](https://www.youtube.com/watch?v=gQEHr54hXcw)
 - [Repo](https://github.com/Talckatoo)
-
 
 ## [MentorUp Class Management System](https://mentorup-81w4.onrender.com)
 - [Repo](https://github.com/Mentor-Up)
 
 ## Languages & Frameworks:
 
-- HTML, CSS, Javascript
-- React, React Native, Node.js, Express, Typescript, Koa (Strapi)
+- HTML, CSS, Javascript, Typescript
+- React, React Native (Expo), Redux Toolkit
+- Node.js, Express, Koa (Strapi)
 - Python, Django
 
 ## Technologies & Tools used:
