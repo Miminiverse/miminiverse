@@ -2,13 +2,17 @@
 
 ## Full-Stack Developer ☼ Mobile Developer ☾ Writer 
 
-- Backend Developer at DevLaunchers
-- 📝 [Blog](https://minhtampham0703.wordpress.com/) 📇 [Portfolio](https://www.mtamp.me/) 📧 tam.p@devlaunchers.com
+- Full-stack Developer at Talckatoo
+- Full-stack Developer at Code The Dream
+- React Native Developer at Commonly
+- 📝 [Blog](https://tamp.blog/) 📇 [Portfolio](https://www.mtamp.me/) 📧 minhtamphamtol.com
 
 
 ## [Talckatoo AI-Powered Real-Time Multilingual Chat App](https://talckatoo.me)
 - [Mobile App Demo](https://www.youtube.com/watch?v=gQEHr54hXcw)
 - [Repo](https://github.com/Talckatoo)
+
+## [Commonly Consumer Service Mobile App](https://trycommonly.com/app)
 
 ## [MentorUp Class Management System](https://mentorup-81w4.onrender.com)
 - [Repo](https://github.com/Mentor-Up)
@@ -16,7 +20,7 @@
 ## Languages & Frameworks:
 
 - HTML, CSS, Javascript, Typescript
-- React, React Native (Expo), Redux Toolkit
+- Next.js, React, React Native (React CLI and Expo), Vite, Redux Toolkit
 - Node.js, Express, Koa (Strapi)
 - Python, Django
 
