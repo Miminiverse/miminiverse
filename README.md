@@ -12,8 +12,10 @@
 - [Mobile App Demo](https://www.youtube.com/watch?v=gQEHr54hXcw)
 - [Repo](https://github.com/Talckatoo)
 
-## [Commonly Consumer Service Mobile App](https://trycommonly.com/app)
-
+## [Commonly Consumer Service Mobile App](https://trycommonly.com)
+- [Mobile App Demo](https://youtu.be/1-SBDE5wrGA)
+- [Download](https://trycommonly.com/app)
+  
 ## [MentorUp Class Management System](https://mentorup-81w4.onrender.com)
 - [Repo](https://github.com/Mentor-Up)
 
