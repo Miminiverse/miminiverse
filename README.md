@@ -5,7 +5,7 @@
 - Full-stack Developer at Talckatoo
 - Full-stack Developer at Code The Dream
 - React Native Developer at Commonly
-- 📝 [Blog](https://tamp.blog/) 📇 [Portfolio](https://app.miminiverse.fun/) 📧 minhtamphamtol.com
+- 📝 [Blog](https://tamp.blog/) 📇 [Get to know me](https://app.miminiverse.fun/) 📧 minhtamphamtol.com
 
 
 ## [Talckatoo AI-Powered Real-Time Multilingual Chat App](https://talckatoo.me)
